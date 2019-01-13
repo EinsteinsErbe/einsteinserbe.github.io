@@ -16,3 +16,8 @@
 .webgl-content .footer .webgl-logo {background-image: url('webgl-logo.png'); width: 204px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
+
+.webgl-content .header {margin-bottom: 5px; height: 38px; line-height: 38px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 24px;} 
+.webgl-content .header .title, .back {height: 100%; display: inline-block; background: transparent center no-repeat;} 
+.webgl-content .header .title {margin-right: 10px; float: left;}
+.webgl-content .header .back {background-image: url('back.png'); width: 38px; float: right;}
