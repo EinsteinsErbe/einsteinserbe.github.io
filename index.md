@@ -4,3 +4,4 @@
 
 layout: home
 ---
+{% include guestCounter.html %}
