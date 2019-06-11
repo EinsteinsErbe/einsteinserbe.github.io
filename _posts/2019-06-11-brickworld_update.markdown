@@ -6,19 +6,19 @@ categories: jekyll update
 ---
 
 Very basic functions. Build, move and destroy models. Simple demo level.
-[Download](https://github.com/Major94/BrickWorld/releases) for Windows and Android.
+Download for [Windows][winSetup] and [Android][apk].
 
-### Controls
+### Controls for Windows (Android is not fully supported yet)
 
-WASD => move camera
-Mouse Scroll => zoom camera
-Mouse Left => select / move / place model
-1 => start placing model
-2 => stop placing model
-3 => destroy model
+* WASD => move camera
+* Mouse Scroll => zoom camera
+* Mouse Left => select / move / place model
+* 1 => start placing model
+* 2 => stop placing model
+* 3 => destroy model
 
-[PLAY DEMO][brick-world]
-
-[View Release](https://github.com/Major94/BrickWorld/releases)
+[PLAY ONLINE DEMO][brick-world]
 
 [brick-world]: {{ site.baseurl }}{% link BrickWorld/index.html %}
+[winSetup]:{{ site.url }}/download/BrickWorldSetup.exe
+[apk]:{{ site.url }}/download/BrickWorld.apk
