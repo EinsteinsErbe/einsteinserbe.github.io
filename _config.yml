@@ -14,15 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Manuel Jordan
-#email: your-email@example.com
+author: Einsteins Erbe
+email: erbe.einstein@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal site and some of my projects.
+  Here's currently not much to see yet :(
+  But I will occasionally add more content in the future.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EinsteinsErbe1
 github_username: Major94
 linkedin_username: manuel-jordan-1350a8121
 patreon_username: einsteinserbe
+youtube_channel: UC7QhA4vvA82Fit-jEsPLr7w
+youtube_channel_name: Einsteins Erbe
+itchio_username: einsteinserbe
 
 # Google Analytics
 google_analytics: UA-132788549-1
