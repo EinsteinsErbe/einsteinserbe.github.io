@@ -14,5 +14,6 @@ Besides, I program different applications and video games. My focus lies on proc
 
 or [Donate][donate] via PayPal
 
+![profile](/images/profile.png)
 
 [donate]: https://paypal.me/major94
