@@ -16,7 +16,8 @@
 title: Manuel Jordan
 author: Einsteins Erbe
 email: erbe.einstein@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: My personal site and some of my projects
+description_long: >- # this means to ignore newlines until "baseurl:"
   My personal site and some of my projects.
   Here's currently not much to see yet :(
   But I will occasionally add more content in the future.

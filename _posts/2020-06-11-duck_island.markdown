@@ -7,8 +7,10 @@ categories: jekyll update
 
 [Saturn91][saturn91] and I joined the [I Can't Draw But Want To Make A Game (Again) Jam][jam] in June 2020. The jam's theme was "The Beach".
 
-It was our second Game Jam and we had a lot of fun. We reached overall rank 16 and rank 5 in the "topic" category.
+It was our second Game Jam and we had a lot of fun. Our game was included in the honourable mentions.
 Our submission: "Duck Island". [Play it here][duck]
+
+You play as a duck, but you want to be a phoenix :D
 
 [![Duck Island](/images/duckisland.png){: height="300px"}][duck]
 
